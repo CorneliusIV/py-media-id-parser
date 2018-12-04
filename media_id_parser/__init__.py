@@ -1,0 +1,1 @@
+from media_id_parser.media_id import *  # noqa

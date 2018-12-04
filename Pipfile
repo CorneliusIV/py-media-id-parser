@@ -7,7 +7,7 @@ name = "pypi"
 
 [packages]
 
-requests = "<2.11,>=2.10"
+requests = "<2.21,>=2.20"
 
 
 [dev-packages]

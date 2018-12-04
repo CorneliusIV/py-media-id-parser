@@ -13,7 +13,7 @@ setup(
     author_email="cornelius.hairston@gmail.com",
     license='MIT',
     install_requires=[
-        'requests>=2.10,<2.11',
+        'requests>=2.21,<2.20',
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
